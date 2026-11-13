@@ -1,18 +1,25 @@
-## 1. Cách chạy chương trình
+## 1. Cách chạy tập tin bai01.js
+Bước 1: Truy cập repository GitHub:
 
-Bước 1: Mở Visual Studio Code.
+https://github.com/voduyanhgalaxys4-code/Bt01
 
-Bước 2: Chọn File → Open Folder.
+Bước 2: Nhấn nút Code → Download ZIP để tải mã nguồn về máy tính.
 
-Bước 3: Chọn thư mục Bt01.
+Bước 3: Giải nén tập tin ZIP vừa tải về.
 
-Bước 4: Chọn Terminal → New Terminal.
+Bước 4: Mở Visual Studio Code, chọn File → Open Folder, sau đó mở thư mục Bt01-main chứa tập tin bai01.js.
 
-Bước 5: Nhập lệnh chạy chương trình:
+Bước 5: Chọn Terminal → New Terminal để mở Terminal.
 
+Bước 6: Kiểm tra Node.js đã được cài đặt bằng lệnh:
+node -v
+
+
+Bước 7: Nhập lệnh sau để chạy chương trình:
 node bai01.js
 
-Bước 6: Nhấn Enter để thực thi chương trình.
+
+Bước 8: Nhấn Enter để thực thi chương trình. Kết quả sẽ hiển thị trên Terminal.
 
 ## 2. Kết quả thực hiện
 
