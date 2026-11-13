@@ -5,6 +5,7 @@ Bước 1: Tạo thư mục bài tập
 Mở PowerShell và di chuyển đến thư mục chứa bài tập:
 
 mkdir Bt01
+
 cd Bt01
 
 Bước 2: Tạo tập tin bai01.js
