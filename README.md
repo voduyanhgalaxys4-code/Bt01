@@ -1,25 +1,29 @@
-## 1. Cách chạy tập tin bai01.js
-Bước 1: Truy cập repository GitHub:
+## 1. Cách chạy chương trình
 
-https://github.com/voduyanhgalaxys4-code/Bt01
+Bước 1: Tạo thư mục bài tập
 
-Bước 2: Nhấn nút Code → Download ZIP để tải mã nguồn về máy tính.
+Mở PowerShell và di chuyển đến thư mục chứa bài tập:
 
-Bước 3: Giải nén tập tin ZIP vừa tải về.
+mkdir Bt01
+cd Bt01
 
-Bước 4: Mở Visual Studio Code, chọn File → Open Folder, sau đó mở thư mục Bt01-main chứa tập tin bai01.js.
+Bước 2: Tạo tập tin bai01.js
 
-Bước 5: Chọn Terminal → New Terminal để mở Terminal.
+Sử dụng lệnh:
 
-Bước 6: Kiểm tra Node.js đã được cài đặt bằng lệnh:
-node -v
+notepad bai01.js
 
+Nhập mã nguồn JavaScript thực hiện các yêu cầu của bài tập và lưu tập tin.
 
-Bước 7: Nhập lệnh sau để chạy chương trình:
+Bước 3: Chạy chương trình
+
+Tại Terminal, thực hiện lệnh:
+
 node bai01.js
 
+Bước 4: Kiểm tra kết quả
 
-Bước 8: Nhấn Enter để thực thi chương trình. Kết quả sẽ hiển thị trên Terminal.
+Sau khi chạy chương trình, Terminal hiển thị danh sách sinh viên có điểm từ 5 trở lên.
 
 ## 2. Kết quả thực hiện
 
